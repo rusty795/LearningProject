@@ -1,0 +1,2 @@
+Cyclic barrier and countdown latch:
+https://www.youtube.com/watch?v=aXquiU12A4g
