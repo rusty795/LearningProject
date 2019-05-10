@@ -5,4 +5,6 @@ https://medium.com/@XiaohanZeng/i-interviewed-at-five-top-companies-in-silicon-v
 
 Transaction Management
 https://vladmihalcea.com/a-beginners-guide-to-database-locking-and-the-lost-update-phenomena/
-https://vladmihalcea.com/a-beginners-guide-to-database-locking-and-the-lost-update-phenomena/
+
+Thread Pool
+https://www.javacodegeeks.com/2016/12/implement-thread-pool-java.html
